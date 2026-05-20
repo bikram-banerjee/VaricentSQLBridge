@@ -293,5 +293,7 @@ MIT License
 
 ## 👨‍💻 Author
 Author : Bikram Banerjee
+
 Email : [bikrambanerjee32@gmail.com]
+
 XML to SQL Converter - Version 1.0
