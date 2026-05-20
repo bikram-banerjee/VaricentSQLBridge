@@ -292,5 +292,6 @@ pytest --cov=.
 MIT License
 
 ## 👨‍💻 Author
-
-XML to SQL Converter - Version 2.0
+Author : Bikram Banerjee
+Email : [bikrambanerjee32@gmail.com]
+XML to SQL Converter - Version 1.0
