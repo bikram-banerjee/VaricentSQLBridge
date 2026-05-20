@@ -1,0 +1,17 @@
+# XML to SQL Converter Requirements
+
+# Core dependencies
+# tkinter is included with Python standard library
+# xml.etree.ElementTree is included with Python standard library
+
+# Development and testing
+pytest>=7.0
+pytest-cov>=4.0
+
+# Code quality
+pylint>=2.0
+black>=22.0
+flake8>=4.0
+
+# Documentation
+sphinx>=4.0
